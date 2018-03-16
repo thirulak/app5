@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#424242"
     tools:context="com.example.android.app5.MainActivity">
 
     <TextView
@@ -19,7 +18,7 @@
 
         <ImageView
             android:id="@+id/img1"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="50dp"
             android:layout_width="384dp"
             android:layout_height="250dp"
             android:layout_marginBottom="40dp"
@@ -30,7 +29,7 @@
             android:id="@+id/bt1"
             android:layout_height="50dp"
             android:layout_width="195dp"
-            android:layout_marginTop="0dp"
+            android:layout_marginTop="20dp"
             android:layout_marginStart="90dp"
             android:background="@drawable/button"
             android:text="@string/b1"
@@ -41,10 +40,10 @@
         android:id="@+id/t3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="38dp"
         android:layout_marginLeft="4dp"
         android:textSize="16sp"
-        android:text="@string/t1"
+        android:text="@string/t"
         android:textColor="@color/White" />
     <TextView
         android:id="@+id/t4"
