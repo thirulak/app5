@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app5</string>
+    <string name="title">Kindle</string>
+    <string name="b1">START READING</string>
+    <string name="t1">By signing in or creating an account,you agree into the</string>
+    <string name="t2">Kindle terms.</string>
+</resources>
