@@ -1,6 +1,6 @@
 # App5 
- * Android Phase-1 Copy Layout Project Challenge 
- HEAD
+* Android Phase-1 Copy Layout Challenge Project 
+* HEAD
 
 
 Original layout:
