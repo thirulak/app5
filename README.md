@@ -1,7 +1,5 @@
 # App5 
 * **Udacity Google India Android Basics Phase-1 Copy Layout Challenge Project** 
-* HEAD
-
 
 ## Original layout:
 ![screenshot_2018-03-13-21-09-42-539_com amazon kindle](https://user-images.githubusercontent.com/36688218/37554856-b19ec202-2a04-11e8-8c54-f2f6d6835b96.png)
