@@ -1,5 +1,5 @@
 # App5 
-* Udacity Google India Android Basics Phase-1 Copy Layout Challenge Project 
+* **Udacity Google India Android Basics Phase-1 Copy Layout Challenge Project** 
 * HEAD
 
 
